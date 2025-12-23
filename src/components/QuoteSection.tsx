@@ -17,7 +17,7 @@ export function QuoteSection({ quotes }: QuoteSectionProps) {
         <div className="flex flex-col md:flex-row justify-between items-end mb-12 md:mb-16 gap-6">
             <div>
               <span className="inline-block px-4 py-1 bg-white border-2 border-slate-900 rounded-full text-sm font-bold text-slate-900 mb-4 fun-shadow">
-                04 — ALLEGED WISDOM
+                ALLEGED WISDOM
               </span>
               <h2 className="text-4xl md:text-7xl font-black text-slate-900">DAILY INSIGHTS</h2>
             </div>

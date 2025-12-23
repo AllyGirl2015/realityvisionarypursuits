@@ -23,7 +23,7 @@ export default function Home() {
       <section id="about" className="py-16 md:py-24 px-6 md:px-12">
         <div className="max-w-4xl mx-auto text-center">
           <span className="inline-block px-4 py-1 bg-[#FFE66D] border-2 border-slate-900 rounded-full text-sm font-bold text-slate-900 mb-8 fun-shadow">
-            01 — THE MANIFESTO
+            THE MANIFESTO
           </span>
           <div className="prose prose-lg md:prose-2xl mx-auto">
             <p className="font-black text-2xl md:text-5xl leading-tight text-slate-900 mb-8">
@@ -48,7 +48,7 @@ export default function Home() {
           <div className="mb-16 flex flex-col md:flex-row justify-between items-end gap-6">
             <div>
               <span className="inline-block px-4 py-1 bg-white border-2 border-slate-900 rounded-full text-sm font-bold text-slate-900 mb-4 fun-shadow">
-                02 — SELECTED WORKS
+                SELECTED WORKS
               </span>
               <h2 className="text-4xl md:text-7xl font-black text-white text-stroke-3">THE COLLECTION</h2>
             </div>
@@ -76,7 +76,7 @@ export default function Home() {
           <div className="mb-16 flex flex-col md:flex-row justify-between items-end gap-6">
             <div>
               <span className="inline-block px-4 py-1 bg-white border-2 border-slate-900 rounded-full text-sm font-bold text-slate-900 mb-4 fun-shadow">
-                03 — THE MINDS
+                THE MINDS
               </span>
               <h2 className="text-4xl md:text-7xl font-black text-slate-900">OUR AUTHORS</h2>
             </div>

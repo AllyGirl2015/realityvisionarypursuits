@@ -17,6 +17,7 @@ export interface Work {
   tags: string[];
   authorId: string;
   date: string;
+  file?: string;
 }
 
 export interface Quote {
